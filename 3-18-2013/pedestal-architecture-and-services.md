@@ -1,2 +1,4 @@
-= Pedestal Architecture and Services =
+Pedestal Architecture and Services
+==================================
 by Ashworth, Ewald
+------------------

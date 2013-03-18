@@ -1,2 +1,4 @@
-= Engines of Abstraction =
+Engines of Abstraction
+======================
 by Jim Duey
+-----------

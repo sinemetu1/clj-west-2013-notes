@@ -1,2 +1,4 @@
-= RESTful Clojure =
+RESTful Clojure
+===============
 by Siva Jagadeesan
+------------------

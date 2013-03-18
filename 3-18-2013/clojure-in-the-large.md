@@ -1,2 +1,4 @@
-= Clojure in the Large =
+Clojure in the Large
+===================
 by Stuart Sierra
+----------------

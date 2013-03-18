@@ -1,2 +1,4 @@
-= Domain Driven Design =
+Domain Driven Design
+====================
 by Amit Rathore
+---------------
